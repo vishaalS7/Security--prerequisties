@@ -64,3 +64,26 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+### Smart contract Auditing (prerequsites)
+
+- Functions in Solidity {Solidity by example}
+
+* using
+* receive ()
+* fallback ()
+* call
+* staticcall
+* selfdestruct ()
+* fork tests
+
+- lessons to complete from {Cyfrin Updraft}
+
+* Upgradable Smart contracts
+
+- lessons to complete from {Smart Contract Programmer}
+
+* Hacks ( playlist )
+* Foundry Test ( playlist )
+* Ethernaut ( playlist )
+* Damm Vulnerable Defi ( playlist )
